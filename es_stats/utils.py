@@ -16,8 +16,6 @@ def status_map(state):
         return 1
     elif state == 'red':
         return 2
-    elif state == 'red':
-        return 2
     else:
         return 3 # fail
 
